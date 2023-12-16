@@ -10,8 +10,8 @@ hello
 >_NOTE_:
 >this is note
 
-<<<<<<< HEAD
+
 hello
-=======
+
 hi
->>>>>>> 74dd2bbfe9edcb1a030592e7655f4bbe883d3957
+                     
